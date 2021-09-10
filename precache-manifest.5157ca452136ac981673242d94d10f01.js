@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03bdbe74747cbba5d16485d18421dc0a",
+    "revision": "f1a264dcd95cc7480a1b7ef90b12d421",
     "url": "/newrobofriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newrobofriends/static/css/2.036b41f9.chunk.css"
   },
   {
-    "revision": "0a27df7ef54b6f6af425",
+    "revision": "5b83e477a17b5bd631b7",
     "url": "/newrobofriends/static/css/main.4ebb84ac.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/newrobofriends/static/js/2.436754dc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0a27df7ef54b6f6af425",
-    "url": "/newrobofriends/static/js/main.fce5a2b5.chunk.js"
+    "revision": "5b83e477a17b5bd631b7",
+    "url": "/newrobofriends/static/js/main.1e707964.chunk.js"
   },
   {
     "revision": "8a45f3189b81511e73cf",
