@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/newrobofriends/static/css/main.4ebb84ac.chunk.css",
+    "main.js": "/newrobofriends/static/js/main.fce5a2b5.chunk.js",
+    "main.js.map": "/newrobofriends/static/js/main.fce5a2b5.chunk.js.map",
+    "runtime-main.js": "/newrobofriends/static/js/runtime-main.dbab8a05.js",
+    "runtime-main.js.map": "/newrobofriends/static/js/runtime-main.dbab8a05.js.map",
+    "static/css/2.036b41f9.chunk.css": "/newrobofriends/static/css/2.036b41f9.chunk.css",
+    "static/js/2.436754dc.chunk.js": "/newrobofriends/static/js/2.436754dc.chunk.js",
+    "static/js/2.436754dc.chunk.js.map": "/newrobofriends/static/js/2.436754dc.chunk.js.map",
+    "index.html": "/newrobofriends/index.html",
+    "precache-manifest.db0b107f26395ec6fed0a0fe3cd9080b.js": "/newrobofriends/precache-manifest.db0b107f26395ec6fed0a0fe3cd9080b.js",
+    "service-worker.js": "/newrobofriends/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/newrobofriends/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.4ebb84ac.chunk.css.map": "/newrobofriends/static/css/main.4ebb84ac.chunk.css.map",
+    "static/js/2.436754dc.chunk.js.LICENSE.txt": "/newrobofriends/static/js/2.436754dc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/newrobofriends/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbab8a05.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.436754dc.chunk.js",
+    "static/css/main.4ebb84ac.chunk.css",
+    "static/js/main.fce5a2b5.chunk.js"
+  ]
+}
